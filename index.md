@@ -1,6 +1,6 @@
 ### Who I am
 
-![Image of me](https://meox.github.io/meox4.jpg)
+![Image of me](https://meox.github.io/meox4.jpeg)
 C++ passionate, I spent my time programming and experimenting.
 Recentrly I fall in love with #Functional Programming!!!
 
