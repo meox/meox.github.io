@@ -7,12 +7,13 @@ Recently I fall in love with #Functional_Programming!!!
 
 ### Programming Language I love
 
-- C++14/C++17
-- Elixir, Scala
-
+- Elixir, Erlang
+- Go
+- C++17
 
 ### Course
 
+- Functional Programming in Erlang (University of Kent)
 - Programming Languages B (University of Washington)
 - Elixir: Coding Gnome
 - Functional Programming Principle in Scala (2016, École Polytechnique Fédérale de Lausanne)
