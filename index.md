@@ -1,15 +1,13 @@
 ### Who I am
 
 ![Image of me](https://meox.github.io/meox4.jpeg)
-C++ passionate, I spent my time programming and experimenting.
-Recently I fall in love with #Functional_Programming!!!
-
+I spent my time programming and experimenting. I love #FP and messing up with mini boards!
 
 ### Programming Language I love
 
 - Elixir, Erlang
 - Go
-- C++17
+- Rust & Clojure
 
 ### Course
 
