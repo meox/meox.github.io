@@ -1,13 +1,13 @@
 ### Who I am
 
 ![Image of me](https://meox.github.io/meox4.jpeg)
-I spent my time programming and experimenting. I love #FP and messing up with mini boards!
+I spent my time programming and experimenting. I love #FP and messing up with mini boards and networking!
 
 ### Programming Language I love
 
 - Elixir, Erlang
 - Go
-- Rust & Clojure
+- Zig & Clojure
 
 ### Course
 
